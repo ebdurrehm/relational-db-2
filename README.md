@@ -1,7 +1,7 @@
 # relational-db-2
-##This repository conatins all task assignment files and their solution.
+## This repository conatins all task assignment files and their solution.
 
-#Build a World Cup Database
+# Build a World Cup Database
 
 This is one of the required projects to earn your certification. For this project, you will create a Bash script that enters information from World Cup games into PostgreSQL, then query the database for useful statistics.
 Create a GitHub account if you don't have one. You'll need it when you create the virtual Linux server machine. This process may take a few minutes.
