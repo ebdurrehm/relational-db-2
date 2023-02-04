@@ -1,5 +1,5 @@
 # relational-db-2
-## This repository conatins all task assignment files and their solution.
+## This repository contains all of the files of the assignment and their solutions provided by me.
 
 # Build a World Cup Database
 
